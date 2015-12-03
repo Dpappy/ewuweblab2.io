@@ -6,24 +6,16 @@
      
  }
 
-img {
-  width : 50%;
-    align: center;
-    padding:100px;
-}
 
 
-img { 
-    
-    width : 50%;
-}
+
 
 /* Layout */
 
 main{
-  background: none;
+  
   margin: 0 auto;
-  width: 90%; /*1000px/ 1000px=1 */
+  width: 100%; /*1000px/ 1000px=1 */
 }
 
 h1 {
@@ -44,13 +36,7 @@ p
   width: 30%; /* 560px / 1000px = .56 */
 }
 
-.Me {
-  background: none;
-  padding:100px; /* 10px/ 360 px = 0.02777777777778 */
-  margin: 1%; /* 10px / 1000px = .01 */
-  width: 32%; /* 360px / 1000px = .36 */
-}
-    
+
 
 /* Typography */
 h1 {
@@ -64,9 +50,6 @@ h1 {
     background:black;
     padding: 8px;
 }
-
-
-
 
 
 /* Navigation */
